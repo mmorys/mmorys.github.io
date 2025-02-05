@@ -1,8 +1,8 @@
 AUTHOR = 'Marcin Morys'
 SITENAME = 'Tech Thoughts'
-SITEURL = ""
+SITEURL = 'https://mmorys.github.io'
 
-PATH = "content"
+PATH = 'content'
 
 TIMEZONE = 'America/New_York'
 
